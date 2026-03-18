@@ -54,3 +54,6 @@
 [submodule "zmk-input-processor-rotate-plane"]
 	path = zmk-input-processor-rotate-plane
 	url = git@github.com:efogdev/zmk-input-processor-rotate-plane.git
+[submodule "zmk-runtime-config"]
+	path = zmk-runtime-config
+	url = https://github.com/efogdev/zmk-runtime-config.git
