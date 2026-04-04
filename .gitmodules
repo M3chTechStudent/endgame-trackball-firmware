@@ -52,8 +52,14 @@
 	path = zmk-paw3395-driver
 	url = git@github.com:efogdev/zmk-paw3395-driver.git
 [submodule "zmk-input-processor-rotate-plane"]
-	path = zmk-input-processor-rotate-plane
+	path = zmk-rotate-plane
 	url = git@github.com:efogdev/zmk-input-processor-rotate-plane.git
 [submodule "zmk-runtime-config"]
 	path = zmk-runtime-config
 	url = https://github.com/efogdev/zmk-runtime-config.git
+[submodule "zmk-adaptive-feedback"]
+	path = zmk-adaptive-feedback
+	url = https://github.com/efogdev/zmk-adaptive-feedback.git
+[submodule "zmk-bistable-behavior"]
+	path = zmk-bistable-behavior
+	url = https://github.com/efogdev/zmk-bistable-behavior.git
